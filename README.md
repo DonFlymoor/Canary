@@ -1,3 +1,8 @@
+### ⚠️Project Status
+Canary is no longer maintained. While the repository will remain available, no further updates or fixes will be provided. Please feel free to fork or contribute if you wish to extend its functionality."
+
+#
+
 <img src="src/main/resources/logo.png" width="128">
 
 # Canary for Minecraft Forge
