@@ -1,5 +1,5 @@
-### ⚠️Project Status
-Canary is no longer maintained. While the repository will remain available, no further updates or fixes will be provided. Please feel free to fork or contribute if you wish to extend its functionality."
+# ⚠️**Canary is no longer maintained**.
+While the repository will remain available, no further updates or fixes will be provided. Please feel free to fork or contribute if you wish to extend its functionality."
 
 #
 
